@@ -4,7 +4,7 @@
 This project is a simple demonstration about how to use TDD in projects and strategy pattern.
 
 # The Problem
-The objetctive this funcionality is:
+The objective this functionality is:
 - check the consumption limit and set to display a message or situation to the user
 
 ## Installation
